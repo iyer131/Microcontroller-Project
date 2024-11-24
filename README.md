@@ -4,6 +4,7 @@ The score is displayed on an eight-digit seven-segment display, updated in real 
 A song, played from an SD card, synchronizes with the character animations, and two LEDs provide feedback on player accuracy: a green LED for correct inputs and a red LED for missed inputs.
 
 Objectives
+
 Display falling characters on the TFT LCD.
 
 Play music from an SD card through a DAC, in sync with the animations.
