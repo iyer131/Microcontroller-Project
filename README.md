@@ -5,6 +5,9 @@ A song, played from an SD card, synchronizes with the character animations, and 
 
 Objectives
 Display falling characters on the TFT LCD.
+
 Play music from an SD card through a DAC, in sync with the animations.
+
 Use hardware timers to synchronize music, visuals, and scoring.
+
 Use green and red LEDs to indicate if the player pressed the correct button on time.
